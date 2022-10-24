@@ -1,0 +1,15 @@
+input {
+  /* width: 30%; */
+  background: transparent;
+}
+
+input:focus {
+  background: rgba(60, 200, 80, 0.5);
+}
+
+.error {
+  background: red;
+}
+.error:focus {
+  background: red;
+}
